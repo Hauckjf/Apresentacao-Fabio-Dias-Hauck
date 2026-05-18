@@ -125,9 +125,6 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hauckjf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hauckjf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Hauckjf&theme=tokyonight&hide_border=true&background=0d1117" />
@@ -156,7 +153,7 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 Available for **senior individual contributor roles** in backend, full stack, and platform/AI engineering — remote-first, async-friendly teams.
 
-&nbsp;&nbsp;✉️&nbsp; [fabiohauck92@gmail.com](mailto:fabiohauck92@gmail.com)
+&nbsp;&nbsp;✉️&nbsp; [contato@fabiodiashauck.com.br](mailto:contato@fabiodiashauck.com.br)
 &nbsp;&nbsp;💼&nbsp; [LinkedIn](https://www.linkedin.com/in/fabio-dias-hauck)
 &nbsp;&nbsp;🌐&nbsp; [fabiodiashauck.com.br](https://fabiodiashauck.com.br)
 
